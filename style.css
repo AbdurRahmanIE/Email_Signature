@@ -1,6 +1,25 @@
-*{
-    margin: 0;
+body{
+    margin: 0 auto;
     padding: 0;
     border: 0;
+    background-color: #c2c1c1;
+}
+.main{
+    width: 100%;
+    max-width: 550px;
     background-color: #e2dada;
+}
+.header-image{
+    width: 100%;
+    max-width: 550px;
+    margin-bottom: 10px;
+    background-color: #e2dada;
+}
+.row{
+    border: 1px solid #000000;
+    height: 230px;
+    width: 100%;
+    max-width: 550px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
 }
